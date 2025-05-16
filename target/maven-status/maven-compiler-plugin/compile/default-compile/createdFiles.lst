@@ -1,0 +1,6 @@
+pe/edu/vallegrande/programingreactive/model/Users.class
+pe/edu/vallegrande/programingreactive/rest/UsersRest.class
+pe/edu/vallegrande/programingreactive/ProgramingReactiveApplication.class
+pe/edu/vallegrande/programingreactive/repository/UserRepository.class
+pe/edu/vallegrande/programingreactive/service/UserService.class
+pe/edu/vallegrande/programingreactive/service/serviceImpl/UserServiceImpl.class

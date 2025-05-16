@@ -1,0 +1,6 @@
+/workspaces/victorcuaresma_pe_ms-docker-swarm/src/main/java/pe/edu/vallegrande/programingreactive/ProgramingReactiveApplication.java
+/workspaces/victorcuaresma_pe_ms-docker-swarm/src/main/java/pe/edu/vallegrande/programingreactive/model/Users.java
+/workspaces/victorcuaresma_pe_ms-docker-swarm/src/main/java/pe/edu/vallegrande/programingreactive/repository/UserRepository.java
+/workspaces/victorcuaresma_pe_ms-docker-swarm/src/main/java/pe/edu/vallegrande/programingreactive/rest/UsersRest.java
+/workspaces/victorcuaresma_pe_ms-docker-swarm/src/main/java/pe/edu/vallegrande/programingreactive/service/UserService.java
+/workspaces/victorcuaresma_pe_ms-docker-swarm/src/main/java/pe/edu/vallegrande/programingreactive/service/serviceImpl/UserServiceImpl.java
